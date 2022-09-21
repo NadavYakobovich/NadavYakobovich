@@ -3,7 +3,7 @@
 *  🔭 I’m currently working on my E-commerce web application
 
 ### Here are my Projects:
-#### 	:shopping_cart:	 E-commerce web application ([click here to see](https://github.com/NadavYakobovich/E-Commere_WebShop_Project))
+#### :shopping_cart:	 E-commerce web application ([click here to see](https://github.com/NadavYakobovich/E-Commere_WebShop_Project))
 Web shop , Displayed Product Board ,Registration user system , Dashboard for management
 *	Client – using react 
 *	Server – api server using express & Node.js
@@ -19,7 +19,7 @@ Responsive chat app
 *	Level based OOP block breaker game.
 *	written in Java.
 
-##### :bookmark:	Anomaly Detection Server ([click here to see](https://github.com/NadavYakobovich/Anomaly_Detector))
+#### :bookmark:	Anomaly Detection Server ([click here to see](https://github.com/NadavYakobovich/Anomaly_Detector))
 *	Analyze and detects anomalies in flight data using various algorithms.
 *	written in C++.
 

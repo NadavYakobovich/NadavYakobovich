@@ -4,7 +4,7 @@
 
 ### Here are my Projects:
 #### :shopping_cart: E-commerce web application ([click here to see](https://github.com/NadavYakobovich/E-Commere_WebShop_Project))
-Currently working on -> Web shop: A virtual store where client can manage and display his products and allow customers to view them. Include:  Displayed Product Board ,Registration user system , Dashboard for management, edit items feature and view orders.
+Web shop: A virtual store where client can manage and display his products and allow customers to view them. Include:  Displayed Product Board ,Registration user system , Dashboard for management, edit items feature and view orders.
 * Client – using React.js 
 * Server – API server using express & Node.js
 * Database – using Mongodb 
